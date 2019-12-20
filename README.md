@@ -1,5 +1,5 @@
-# IASA
-Immersive Acoustic Spatial Awareness
+# localize-locate
+
 
 This project has three modules:
 ># Obstacle Detection for the blind using a 3-D Sound
