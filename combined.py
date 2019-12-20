@@ -1,3 +1,10 @@
+# Copyright Info
+__author__ = "Team Nocturnals: Ahmed N., Polamaina S., Malick S."
+__copyright__ = "Copyright (C) 2019 Nocturnals"
+__license__ = "Public Domain"
+__version__ = "1.0"
+
+#Library Requirements
 from __future__ import print_function
 import darkflow
 from darkflow.net.build import TFNet
